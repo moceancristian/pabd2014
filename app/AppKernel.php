@@ -22,6 +22,7 @@ class AppKernel extends Kernel
             new Sonia\PageBundle\SoniaPageBundle(),
             new Andrei\PersonalPageBundle\AndreiPersonalPageBundle(),
             new rares\raresBundle\raresraresBundle(),
+            new Mocean\MoceanBundle\MoceanMoceanBundle(),
                     );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

@@ -1,0 +1,3 @@
+mocean_mocean_homepage:
+    pattern:  /mocean/{name}
+    defaults: { _controller: MoceanMoceanBundle:Default:index }

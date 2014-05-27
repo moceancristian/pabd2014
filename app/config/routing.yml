@@ -1,3 +1,7 @@
+mocean_page:
+    resource: "@MoceanMoceanBundle/Resources/config/routing.yml"
+    prefix:   /
+
 raresrares:
     resource: "@raresraresBundle/Resources/config/routing.yml"
     prefix:   /

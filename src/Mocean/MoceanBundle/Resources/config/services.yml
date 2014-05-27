@@ -1,0 +1,7 @@
+parameters:
+#    mocean_page.example.class: Mocean\MoceanBundle\Example
+
+services:
+#    mocean_page.example:
+#        class: %mocean_page.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
