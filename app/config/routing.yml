@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 mocean_page:
     resource: "@MoceanMoceanBundle/Resources/config/routing.yml"
     prefix:   /
 
 raresrares:
     resource: "@raresraresBundle/Resources/config/routing.yml"
+=======
+ampoitan_nicu:
+    resource: "@AmpoitanNicuBundle/Resources/config/routing.yml"
+>>>>>>> 1c29bdff33a7a86f633a6b910c3d46d75245ffd2
     prefix:   /
 
 andrei_personal_page:
@@ -25,3 +30,11 @@ angelescuangelescu:
 tudor_pag_pers:
     resource: "@TudorPagPersBundle/Resources/config/routing.yml"
     prefix:   /
+a_ciungan_blog:
+    resource: "@ACiunganBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
+daniel_my_page:
+    resource: "@DanielMyPageBundle/Resources/config/routing.yml"
+    prefix:   /
+
